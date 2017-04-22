@@ -26,9 +26,9 @@
 
 | Ссылка | Описание |
 | ------ | ------ |
-| [maps.ya.ru] [Map] | Карта с областями |
-| [the-mostly.ru] [Converter] | Онлайн конвертер для перевода географических координат между десятичным форматам и форматом градусы/минуты/секунды |
+| [maps.ya.ru] | Карта с областями |
+| [the-mostly.ru] | Онлайн конвертер для перевода географических координат между десятичным форматам и форматом градусы/минуты/секунды |
 
 
-   [Map]: <https://yandex.ru/maps/213/moscow/?um=constructor%3A1dTiI3ahnaYIorbtuf6gB6D_8pR2Wvzl&ll=37.551753%2C55.743583&z=11&l=map&mode=usermaps>
-   [Converter]: <http://the-mostly.ru/konverter_geograficheskikh_koordinat.html>
+   [maps.ya.ru]: <https://yandex.ru/maps/213/moscow/?um=constructor%3A1dTiI3ahnaYIorbtuf6gB6D_8pR2Wvzl&ll=37.551753%2C55.743583&z=11&l=map&mode=usermaps>
+   [the-mostly.ru]: <http://the-mostly.ru/konverter_geograficheskikh_koordinat.html>
